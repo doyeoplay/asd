@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat UI Screen</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="index.css"/>
+    <script src="index.js"></script>
+	</head>
+</head>
+<body>
+    <div class="background-image">
+    </div>
+        <div id="intro" class="intro-container" style="width:90%;">
+            <h1 style="margin : 0px; font-size: 36px;">술도둑</h1>
+            <h2 style="font-size: 28px;">술 안주 추천해줄게🍺</h2>
+            <img src="image/suldodug.jpg" alt="suldodug" style="width:90%;">
+            <label for="mood">오늘 기분이 어때?</label>
+            <input id="mood" type="text" placeholder="기분을 입력해주세요" style="width:90%;">
+            <label for="alcohol">오늘 어떤 술을 먹을거야?</label>
+            <input id="alcohol" type="text" placeholder="술 종류를 입력해주세요" style="width:90%;">
+            <button onclick="start()">술안주 보러가기</button>
+            <br>
+            <a style="color:aliceblue; margin : 0px;" href="https://doyeop.com/">doyeop.com</a>
+        </div>
+    <div id="chat" class="chat-container" style="display: none; width:90%;">
+        <div class="chat-box">
+            <div class="chat-message">
+                <p class="assistant">술이 식기전에 돌아오겠소</p>
+            </div>
+        </div>
+        <div id="loader" class="loader" style="display: none; width:90%;">
+            <i class="fa fa-spinner fa-spin"></i>
+        </div>
+        <div class="chat-input">
+            <input type="text" placeholder="궁금한거 다물어봐 ^_^" style="width:90%;">
+            <button id="btn" onclick="spinner()">Send</button>
+        </div>
+        <div class="doyeop">
+            <a style="color:aliceblue; margin:0px;" href="https://doyeop.com/">doyeop.com</a>
+        </div>
+    </div>
+</body>
+</html>
