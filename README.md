@@ -1,10 +1,9 @@
 # 술도둑 suldodug
-![술도둑메인](https://user-images.githubusercontent.com/127378644/236659750-0ebdb28e-22ae-4f57-bc56-40ab04c264ea.jpg)
 
 ## 프로젝트 소개
 
 ### 
-술도둑은 오늘의 기분과 먹을려는 술의 종류를 입력하면 chatGPT를 이용하여 채팅으로 술안주를 추천해줍니다.<br>
+> 술도둑은 오늘의 기분과 먹을려는 술의 종류를 입력하면 chatGPT를 이용하여 채팅으로 술안주를 추천해줍니다.<br>
 - 간단한 풀스택
 - openAI API사용
 - 혼자서 프로젝트 개발 및 배포
@@ -52,7 +51,7 @@ $ cd frontend
 ```
 
 ---
-## Stacks
+## 기술스택
 
 ### Environment
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>
