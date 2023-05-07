@@ -1,6 +1,8 @@
 # 술도둑 🍺
----
-### 프로젝트 소개
+
+## 프로젝트 소개
+
+### 술도둑이란 ?
 술도둑은 오늘의 기분과 먹을려는 술의 종류를 입력하면 chatGPT를 이용하여 채팅으로 술안주를 추천해줍니다.<br>
 - 간단한 풀스택
 - openAI API사용
@@ -17,8 +19,7 @@
 > **배포 사이트** : [https://suldodug.pages.dev/](https://suldodug.pages.dev/) <br>
 > **코드 설명** : 
 
----
-## 웹개발팀 소개
+### 웹개발팀 소개
 
 ![한강](https://user-images.githubusercontent.com/127378644/236657269-d8eb0ed3-946e-45db-b86e-44bc1c366dd3.jpg)
 
