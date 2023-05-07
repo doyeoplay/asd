@@ -1,7 +1,5 @@
 # 술도둑 suldodug
-<img src="(https://user-images.githubusercontent.com/127378644/236659750-0ebdb28e-22ae-4f57-bc56-40ab04c264ea.jpg)"/></a>
-
-
+![술도둑메인](https://user-images.githubusercontent.com/127378644/236659750-0ebdb28e-22ae-4f57-bc56-40ab04c264ea.jpg)
 
 > **혼자 만들어본 페이지** <br/> **개발기간: 2022.05.03 ~ 2022.05.05**
 
@@ -21,7 +19,7 @@
 - openAI API사용
 - 혼자서 프로젝트 개발 및 배포
 - 깃허브 README 작성
-- 반응형 웹 만들기
+- 반응형 웹 만들기<br>
 등등 해보고 싶어서 제작하였습니다.
 
 ## 시작 가이드
@@ -37,7 +35,7 @@ $ git clone https://github.com/doyeoplay/suldodug.git
 $ cd suldodug
 ```
 #### Backend
-```
+``` bash
 $ cd backend
 $ npm install openai
 $ npm i express
@@ -45,7 +43,7 @@ $ npm i cors
 ```
 
 #### Frontend
-```
+``` bash
 $ cd frontend
 ```
 ---
@@ -59,9 +57,13 @@ $ cd frontend
 ### Config
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
-
 ### Development
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/fontawesome-528DD7?style=flat-square&logo=fontawesome&logoColor=white"/></a>
+<br>
+<br>
+<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/></a>
 
 ---
 ## 화면 구성
