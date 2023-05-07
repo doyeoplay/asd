@@ -1,19 +1,9 @@
 # 술도둑 suldodug
 ![술도둑메인](https://user-images.githubusercontent.com/127378644/236659750-0ebdb28e-22ae-4f57-bc56-40ab04c264ea.jpg)
 
-> **혼자 만들어본 페이지** <br/> **개발기간: 2022.05.03 ~ 2022.05.05**
-
-## 배포 주소
-
-> **배포 사이트** : [https://suldodug.pages.dev/](https://suldodug.pages.dev/) <br>
-> **코드 설명** : 
-
-## 웹개발팀 소개
-
-![한강](https://user-images.githubusercontent.com/127378644/236657269-d8eb0ed3-946e-45db-b86e-44bc1c366dd3.jpg)
-
 ## 프로젝트 소개
 
+### 
 술도둑은 오늘의 기분과 먹을려는 술의 종류를 입력하면 chatGPT를 이용하여 채팅으로 술안주를 추천해줍니다.<br>
 - 간단한 풀스택
 - openAI API사용
@@ -22,6 +12,20 @@
 - 반응형 웹 만들기<br>
 등등 해보고 싶어서 제작하였습니다.
 
+### 개발 기간
+> **개발기간: 2022.05.03 ~ 2022.05.05**
+
+### 배포 주소
+
+> **배포 사이트** : [https://suldodug.pages.dev/](https://suldodug.pages.dev/) <br>
+> **코드 설명** : 
+
+---
+## 웹개발팀 소개
+
+![한강](https://user-images.githubusercontent.com/127378644/236657269-d8eb0ed3-946e-45db-b86e-44bc1c366dd3.jpg)
+
+---
 ## 시작 가이드
 ### Requirements
 For building and running the application you need:
@@ -46,6 +50,7 @@ $ npm i cors
 ``` bash
 $ cd frontend
 ```
+
 ---
 ## Stacks
 
@@ -60,7 +65,6 @@ $ cd frontend
 ### Development
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/fontawesome-528DD7?style=flat-square&logo=fontawesome&logoColor=white"/></a>
-<br>
 <br>
 <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/></a>
