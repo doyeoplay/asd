@@ -1,7 +1,7 @@
 # 술도둑 suldodug
 
 <div align="center">
-![술도둑메인](https://user-images.githubusercontent.com/127378644/236656979-ac6cd677-4997-4f5d-a295-9c831129538c.jpg)
+![술도둑메인](https://user-images.githubusercontent.com/127378644/236658645-b945300f-36c7-4b38-a4e2-088ae64a7e64.jpg)
 </div>
 
 # suldodug Web page v1.0
@@ -58,10 +58,10 @@ $ npm run dev
 ### Environment
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 ### Config
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 
 ### Development
