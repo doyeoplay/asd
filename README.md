@@ -65,7 +65,7 @@ $ cd frontend
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/fontawesome-528DD7?style=flat-square&logo=fontawesome&logoColor=white"/></a>
 <br>
-<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodejs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/></a>
 
 ---
