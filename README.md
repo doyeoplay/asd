@@ -1,7 +1,7 @@
 # 술도둑 suldodug
 
 <div align="center">
-![술도둑메인](https://user-images.githubusercontent.com/127378644/236658645-b945300f-36c7-4b38-a4e2-088ae64a7e64.jpg)
+<img width="329" alt="image" src="[https://user-images.githubusercontent.com/50205887/207568862-cdc9e2c0-b03c-43ff-bf46-3ba79a110d0c.png](https://user-images.githubusercontent.com/127378644/236658645-b945300f-36c7-4b38-a4e2-088ae64a7e64.jpg)">
 </div>
 
 # suldodug Web page v1.0
